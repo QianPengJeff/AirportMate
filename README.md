@@ -7,7 +7,7 @@ Key Features<br />
 • Organize your trips in one place<br />
 • Access itineraries anytime, on any device (even offline)<br />
 • Get directions and maps for each destination<br />
-• Add or edit trips manually—from the app or on tripit.com<br />
+• Add or edit trips manually—from the app or online<br />
 • Share some (or all) of your trip plans via email or social<br />
 
 Designed by Qian PENG
